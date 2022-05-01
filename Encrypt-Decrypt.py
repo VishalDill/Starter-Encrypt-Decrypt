@@ -90,6 +90,7 @@ def encrypt(given_file):
         original_file.write(line)
 
     original_file.close()
+    encrypted_file.close()
     os.unlink("encrypt_algorithm_Initialization.txt")
 
 
