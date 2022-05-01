@@ -2,7 +2,7 @@
 This is the repository for the Encrypt Decrypt program created by Vishal Dillibabu, Shyan Vilvarajah, Rabten Tsering. This program uses a non standard encrytpion algorithim created by us that encrypts and decrypts any type of file.
 
 Intro: 
-Hello Deer hack Judges, we are Agency Enterprises and we are a group of 3 first year CS Students, Shyan, Vishal and Rabten. 
+Hello Deer hack Judges, we are a group of 3 first year CS Students, Shyan, Vishal and Rabten. 
 
 Overall: 
 We have created an encryption / decryption application with our own custom algorithm. You can select any type of file, and our application will encrypt the data of said file and return to you the password to decrypt the file. 
