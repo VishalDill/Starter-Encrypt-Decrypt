@@ -8,7 +8,7 @@ Overall:
 We have created an encryption / decryption application with our own custom algorithm. You can select any type of file, and our application will encrypt the data of said file and return to you the password to decrypt the file. 
 
 GUI:
-We have created an GUI that will allow you to search through your File Explorer and after it is selected you are presented with the option to encrypt or decrypt.
+We have created an GUI that will make it easier for you to search through your File Explorer and after it is selected you are presented with the option to encrypt or decrypt.
 
 Decrypt:
 For the Decryption process, the application itself has a encrypted master list of passwords for all files the user has encrypted before. The user DOES NOT have access to this master list. 
